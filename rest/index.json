@@ -1,0 +1,11 @@
+{
+	"provider": "Broadwaves",
+	"series":
+	[
+		{
+			"name": "Broadwaves",
+			"series-id": "broadwaves",
+			"image-url": "https://signalpodcast.github.io/broadwaves/img/feed-image.png"
+		}
+	]
+}
