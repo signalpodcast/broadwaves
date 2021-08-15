@@ -1,9 +1,10 @@
 {
-	"name": "Broadwaves",
+	"name": "Broadwaves Podcast",
 	"image-url": "https://signalpodcast.github.io/broadwaves/img/feed-image.png",
 	"seasons":
 	[
 		{
+			"tags": [ "Lifestyle" ],
 			"episodes":
 			[
 				{
