@@ -1,0 +1,922 @@
+{
+    "name": "Broadwaves Podcast",
+    "image-url": "https://signalpodcast.github.io/broadwaves/img/feed-image.png",
+    "seasons": [
+        {
+            "tags": [
+                "Lifestyle"
+            ],
+            "episodes": [
+                {
+                    "name": "Sense8 (season 1) (A)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20161012-sense8-s1p1.mp3",
+                    "duration": "42:18",
+                    "release-date": "2016-10-12",
+                    "short-description": "In this episode, we introduce you to the Netflix original show, Sense8.",
+                    "summary": "__Sense8__ is a Netflix original show, about eight people who start to discover they have a connection with each other. They learn that they can see through each other's eyes, and borrow each other's skills. They have become, in Sense8 mythology, a \"cluster\".\n\nThere are plenty of people out to get them. Individually, they each have their own stories, so that's eight adventures for a start. But together, they form part of a bigger story, a story about what it means to be human.\n\nIn this episode of __Broadwaves__, we introduce you to Sense8, and  we do it without giving away any major spoilers - because if you haven't seen it yet, we want you to watch it.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:32",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/ch2-image.png"
+                        },
+                        {
+                            "time": "08:16",
+                            "title": "Sense8 opening theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/ch3-image.png"
+                        },
+                        {
+                            "time": "09:56",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "12:49",
+                            "title": "Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/ch5-image.png"
+                        },
+                        {
+                            "time": "13:43",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "14:22",
+                            "title": "Feature: Kindness is Sexy",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/ch7-image.png"
+                        },
+                        {
+                            "time": "28:50",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "30:01",
+                            "title": "Feature: If he's you and you're him, and you're him and he's him, am I still me?",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/ch9-image.png"
+                        },
+                        {
+                            "time": "35:10",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p1/ch10-image.png"
+                        },
+                        {
+                            "time": "42:01",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sense8 (season 1) (B)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20161130-sense8-s1p2.mp3",
+                    "duration": "1:15:31",
+                    "release-date": "2016-11-30",
+                    "short-description": "In this episode, we discuss the Netflix original show, Sense8.",
+                    "summary": "__Sense8__ is a Netflix original show, about eight people who start to discover they have a connection with each other. They learn that they can see through each other's eyes, and borrow each other's skills. They have become, in Sense8 mythology, a \"cluster\".\n\nThere are plenty of people out to get them. Individually, they each have their own stories, so that's eight adventures for a start. But together, they form part of a bigger story, a story about what it means to be human.\n\nIn this episode of __Broadwaves__, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch1-image.png"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "03:45",
+                            "title": "Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch3-image.png"
+                        },
+                        {
+                            "time": "06:52",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "07:03",
+                            "title": "Feature: Geeking is Easy. Geeking is What I Do",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch5-image.png"
+                        },
+                        {
+                            "time": "17:06",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "17:33",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch7-image.png"
+                        },
+                        {
+                            "time": "23:00",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch8-image.png"
+                        },
+                        {
+                            "time": "28:30",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch9-image.png"
+                        },
+                        {
+                            "time": "34:00",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch10-image.png"
+                        },
+                        {
+                            "time": "39:30",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch11-image.png"
+                        },
+                        {
+                            "time": "45:00",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch12-image.png"
+                        },
+                        {
+                            "time": "50:30",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch13-image.png"
+                        },
+                        {
+                            "time": "56:00",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch14-image.png"
+                        },
+                        {
+                            "time": "1:01:10",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "1:05:20",
+                            "title": "Briefwaves: Anamnesis",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch16-image.png"
+                        },
+                        {
+                            "time": "1:11:36",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "1:14:55",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch18-image.png"
+                        },
+                        {
+                            "time": "1:15:14",
+                            "title": "Broadwaves closing theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/sense8-s1p2/ch19-image.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ron Glass",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20161127-ronglass-1.mp3",
+                    "duration": "50:00",
+                    "release-date": "2016-11-27",
+                    "short-description": "Our tribute to Ron Glass",
+                    "summary": "This is our tribute to Ron Glass.",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:12",
+                            "title": "Signal opening theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch2-image.png"
+                        },
+                        {
+                            "time": "01:01",
+                            "title": "Book's Farewell",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch3-image.png"
+                        },
+                        {
+                            "time": "06:37",
+                            "title": "After the Earth was used up",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch4-image.png"
+                        },
+                        {
+                            "time": "07:14",
+                            "title": "Nick",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch5-image.png"
+                        },
+                        {
+                            "time": "12:12",
+                            "title": "Clip Bushwhacked",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch6-image.png"
+                        },
+                        {
+                            "time": "12:25",
+                            "title": "Andy",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch7-image.png"
+                        },
+                        {
+                            "time": "12:46",
+                            "title": "Clip from Objects in Space",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch8-image.png"
+                        },
+                        {
+                            "time": "13:51",
+                            "title": "Jutta",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch9-image.png"
+                        },
+                        {
+                            "time": "15:06",
+                            "title": "Clip from Serenity",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch10-image.png"
+                        },
+                        {
+                            "time": "17:20",
+                            "title": "Preacher Book",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch11-image.png"
+                        },
+                        {
+                            "time": "20:24",
+                            "title": "Clip from the Signal S10E4",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch12-image.png"
+                        },
+                        {
+                            "time": "21:05",
+                            "title": "Clip from Serenity (pilot)",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch13-image.png"
+                        },
+                        {
+                            "time": "21:23",
+                            "title": "Interview, part 1",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch14-image.png"
+                        },
+                        {
+                            "time": "33:29",
+                            "title": "Clip from Jaynestown",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch15-image.png"
+                        },
+                        {
+                            "time": "33:57",
+                            "title": "Interview, part 2",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch16-image.png"
+                        },
+                        {
+                            "time": "44:18",
+                            "title": "Clip from Jaynestown",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch17-image.png"
+                        },
+                        {
+                            "time": "45:28",
+                            "title": "Clip from Jaynestown",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch18-image.png"
+                        },
+                        {
+                            "time": "45:55",
+                            "title": "Funeral music from Serenity",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch19-image.png"
+                        },
+                        {
+                            "time": "46:38",
+                            "title": "Funeral music from The Message",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch20-image.png"
+                        },
+                        {
+                            "time": "49:07",
+                            "title": "A minute's silence",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch21-image.png"
+                        },
+                        {
+                            "time": "49:15",
+                            "title": "A minute's silence",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch22-image.png"
+                        },
+                        {
+                            "time": "49:20",
+                            "title": "A minute's silence",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch23-image.png"
+                        },
+                        {
+                            "time": "49:25",
+                            "title": "A minute's silence",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch24-image.png"
+                        },
+                        {
+                            "time": "49:30",
+                            "title": "A minute's silence",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch25-image.png"
+                        },
+                        {
+                            "time": "49:45",
+                            "title": "A minute's silence",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/ronglass-1/ch26-image.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "This is Wonderland (season 1) (A)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20161220-thisiswonderland-s1p1.mp3",
+                    "duration": "37:28",
+                    "release-date": "2016-12-20",
+                    "short-description": "In this episode, we introduce you to the Canadian TV show, This is Wonderland.",
+                    "summary": "__This is Wonderland__ is a Canadian TV series which aired on CBC. It is a legal drama, sort of. It's a show about Alice De Raey, a young criminal lawyer fresh out of law school, who is thrown in at the deep end, in the midst of a totally chaotic justice system. It is about the characters within that system, lawyers, judges and public alike, who range from the desperate to the bizarre.\n\nThis show is about the warmth, humanity and diversity of the characters. It is about the tenaciousness of the human spirit, about compassion and kindness, and sometimes just plain idiocy. Sometimes, it's so painful it's funny.\n\nIn this episode of __Broadwaves__, we introduce you to This is Wonderland, and we do it without giving away any major spoilers - because if you haven't seen it yet, we want you to watch it.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "03:22",
+                            "title": "Feature: We March with Pride",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/ch3-image.png"
+                        },
+                        {
+                            "time": "08:02",
+                            "title": "Feature: We March with Pride",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/ch4-image.png"
+                        },
+                        {
+                            "time": "09:18",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "10:22",
+                            "title": "Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/ch6-image.png"
+                        },
+                        {
+                            "time": "11:46",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "16:14",
+                            "title": "This is Wonderland theme tune",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/ch8-image.png"
+                        },
+                        {
+                            "time": "16:55",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "17:10",
+                            "title": "Feature: Law and Order, Without the Order",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/ch10-image.png"
+                        },
+                        {
+                            "time": "32:49",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p1/ch11-image.png"
+                        },
+                        {
+                            "time": "37:04",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "This is Wonderland (season 1) (B)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p2/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20170131-thisiswonderland-s1p2.mp3",
+                    "duration": "57:40",
+                    "release-date": "2017-01-31",
+                    "short-description": "In this episode, we discuss the Canadian TV show, This is Wonderland.",
+                    "summary": "__This is Wonderland__ is a Canadian TV series which aired on CBC. It is a legal drama, sort of. It's a show about Alice De Raey, a young criminal lawyer fresh out of law school, who is thrown in at the deep end, in the midst of a totally chaotic justice system. It is about the characters within that system, lawyers, judges and public alike, who range from the desperate to the bizarre.\n\nThis show is about the warmth, humanity and diversity of the characters. It is about the tenaciousness of the human spirit, about compassion and kindness, and sometimes just plain idiocy. Sometimes, it's so painful it's funny.\n\nIn this episode of __Broadwaves__, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n* Crew Chat theme tune\n  * Evansessence by Anne Farnsworth\n* Call for Feedback\n  * Music from *Serenity* by David Newman\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "02:27",
+                            "title": "Feature: This is Worth It",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p2/ch3-image.png"
+                        },
+                        {
+                            "time": "06:54",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "08:46",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p2/ch5-image.png"
+                        },
+                        {
+                            "time": "50:14",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "54:31",
+                            "title": "Call for Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/thisiswonderland-s1p2/ch7-image.png"
+                        },
+                        {
+                            "time": "55:55",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "57:20",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Farscape",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20170328-farscape.mp3",
+                    "duration": "1:25:52",
+                    "release-date": "2017-03-28",
+                    "short-description": "In this episode, we discuss the 1999-2003 sci-fi show, Farscape.",
+                    "summary": "__Farscape__ is an Australian-American science fiction show from 1999-2003. It tells the story of John Crichton, an astronaut from present day Earth, who travels through a wormhole and ends up in a distant part of the galaxy, where he joins the crew of Moya, a living ship. The crew are renegades escaping from a corrupt militaristic organization called the Peacekeepers. Together, they have many adventures as John keeps on trying to get home, as a grander story arc evolves.\n\nIn this special episode of __Broadwaves__, we look back over all seasons of __Farscape__, and discuss what our crew thought of this show. This are no major spoilers, so it's safe for you to listen to this podcast even if you haven't seen __Farscape__ yet.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n* Crew Chat theme tune\n  * Evansessence by Anne Farnsworth\n* Call for Feedback\n  * Music from *Serenity* by David Newman\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "02:51",
+                            "title": "Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/ch3-image.png"
+                        },
+                        {
+                            "time": "04:15",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "05:25",
+                            "title": "Call for Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/ch5-image.png"
+                        },
+                        {
+                            "time": "06:48",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "10:22",
+                            "title": "Farscape theme tunes",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/ch7-image.png"
+                        },
+                        {
+                            "time": "13:34",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "17:20",
+                            "title": "Feature: Sci-Fi Review: Farscape",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/ch9-image.png"
+                        },
+                        {
+                            "time": "27:32",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "28:22",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/ch11-image.png"
+                        },
+                        {
+                            "time": "1:13:42",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "1:15:52",
+                            "title": "Tralk Talk",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/farscape/ch13-image.png"
+                        },
+                        {
+                            "time": "1:20:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "1:25:32",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batman: Knightfall (A)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p1/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20170428-batman-knightfall-p1.mp3",
+                    "duration": "57:15",
+                    "release-date": "2017-04-28",
+                    "short-description": "In this episode, we discuss the BBC audio drama, Batman: Knightfall.",
+                    "summary": "__Batman: Knightfall__ is a three-hour audio drama made by the BBC, based on the Batman comics.\n\nIn this episode of __Broadwaves__, we introduce you to Batman: Knightfall, and  we do it without giving away any major spoilers - because if you haven't heard it yet, we want you to listen to it.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n* Call for Feedback\n  * Music from *Serenity* by David Newman\n\nOther Links:\n* The Sense8 Podcast\n  * (http://sense8podcast.com)[Website]\n  * (http://sense8podcast.com/feed/podcast)[Podcast]\n* Sense8Cast\n  * (http://sense8cast.libsyn.com/podcast)[Website]\n  * (http://sense8cast.libsyn.com/rss)[Podcast]\n  ",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "02:46",
+                            "title": "Call for Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p1/ch3-image.png"
+                        },
+                        {
+                            "time": "04:09",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "07:53",
+                            "title": "Feature: Knightfall: The BBC Audio Drama Adaptation",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p1/ch5-image.png"
+                        },
+                        {
+                            "time": "28:59",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "33:04",
+                            "title": "Feature: I Want it All",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p1/ch7-image.png"
+                        },
+                        {
+                            "time": "40:45",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "46:46",
+                            "title": "Comic Sm\u00f6rg\u00e5sbord: The Sculptor by Scott McCloud",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p1/ch9-image.png"
+                        },
+                        {
+                            "time": "51:39",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "56:55",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Batman: Knightfall (B)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p2/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20170528-batman-knightfall-p2.mp3",
+                    "duration": "50:38",
+                    "release-date": "2017-05-28",
+                    "short-description": "In this episode, we discuss the BBC audio drama, Batman: Knightfall.",
+                    "summary": "__Batman: Knightfall__ is a three-hour audio drama made by the BBC, based on the Batman comics.\n\nIn this episode of __Broadwaves__, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * Tishiana Girls by Great Big Sea\n* Call for Feedback\n  * Music from *Serenity* by David Newman\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:32",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "02:05",
+                            "title": "Call for Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p2/ch3-image.png"
+                        },
+                        {
+                            "time": "03:30",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "05:32",
+                            "title": "Feature: Biff Pow Splatt Thwack",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p2/ch5-image.png"
+                        },
+                        {
+                            "time": "14:22",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "15:37",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p2/ch7-image.png"
+                        },
+                        {
+                            "time": "40:26",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "40:52",
+                            "title": "Briefwaves: Death of Superman",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/batman-knightfall-p2/ch9-image.png"
+                        },
+                        {
+                            "time": "46:48",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "49:52",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Orange (A)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20170828-orange-p1.mp3",
+                    "duration": "56:26",
+                    "release-date": "2017-08-28",
+                    "short-description": "In this episode, we introduce you to Orange, available on Funimation (dubbed) and CrunchyRoll (subtitled).",
+                    "summary": "__Orange__ is an anime, a manga, and a live action movie, about a 16-year old girl, Naho, who begins to receive letters from her 26-year old future self. The letters instruct her to change the future, to prevent the death of someone important to her, a boy name Kukiru.\n\nBut it's not as easy as it sounds. Future-Naho only knows what went wrong, not how to do it right, and the more present-Naho changes things, the less useful the letters become. She's going to have to rely on her wits, and her friends, and her love, and most importantly, she's going to have to need courage.\n\nIn this episode of __Broadwaves__, we introduce you to Orange, and  we do it without giving away any major spoilers - because if you haven't seen it yet, we want you to watch it.\n\nWhere to find Orange:\n  * [Crunchyroll](https://www.crunchyroll.com/orange) (dubbed)\n  * [Funimation](https://www.funimationnow.uk/shows/orange/) (subtitled)\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * \"Tishiana Girls\" by Great Big Sea\n* Orange theme tunes\n  * \"Hikari no Haben\" by Yu Takahashi\n  * \"Mirai\" by Kobukuru\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch2-image.png"
+                        },
+                        {
+                            "time": "05:10",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch3-image.png"
+                        },
+                        {
+                            "time": "05:58",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch4-image.png"
+                        },
+                        {
+                            "time": "07:27",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch5-image.png"
+                        },
+                        {
+                            "time": "10:13",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch6-image.png"
+                        },
+                        {
+                            "time": "10:25",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch7-image.png"
+                        },
+                        {
+                            "time": "12:30",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch8-image.png"
+                        },
+                        {
+                            "time": "13:08",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch9-image.png"
+                        },
+                        {
+                            "time": "13:56",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch10-image.png"
+                        },
+                        {
+                            "time": "14:11",
+                            "title": "The Truth of the Signal",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch11-image.png"
+                        },
+                        {
+                            "time": "14:31",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch12-image.png"
+                        },
+                        {
+                            "time": "15:37",
+                            "title": "Orange opening theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch13-image.png"
+                        },
+                        {
+                            "time": "19:45",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch14-image.png"
+                        },
+                        {
+                            "time": "21:22",
+                            "title": "Feature: Manga vs Comics vs Webtoons",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch15-image.png"
+                        },
+                        {
+                            "time": "26:48",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch16-image.png"
+                        },
+                        {
+                            "time": "31:00",
+                            "title": "Feedback",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch17-image.png"
+                        },
+                        {
+                            "time": "34:07",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch18-image.png"
+                        },
+                        {
+                            "time": "34:19",
+                            "title": "Feature: If I had known then what I know now",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch19-image.png"
+                        },
+                        {
+                            "time": "47:22",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch20-image.png"
+                        },
+                        {
+                            "time": "48:04",
+                            "title": "Orange closing theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch21-image.png"
+                        },
+                        {
+                            "time": "53:13",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p1/ch22-image.png"
+                        },
+                        {
+                            "time": "56:06",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Orange (B)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20171009-orange-p2.mp3",
+                    "duration": "1:09:38",
+                    "release-date": "2017-10-09",
+                    "short-description": "In this episode, we discuss Orange, available on Funimation (dubbed) and CrunchyRoll (subtitled).",
+                    "summary": "__Orange__ is an anime, a manga, and a live action movie, about a 16-year old girl, Naho, who begins to receive letters from her 26-year old future self. The letters instruct her to change the future, to prevent the death of someone important to her, a boy name Kukiru.\n\nBut it's not as easy as it sounds. Future-Naho only knows what went wrong, not how to do it right, and the more present-Naho changes things, the less useful the letters become. She's going to have to rely on her wits, and her friends, and her love, and most importantly, she's going to have to need courage.\n\nIn this episode of __Broadwaves__, we dive deeper, and discuss what our crew thought of this show. There will be spoilers! Join in the discussion.\n\nWhere to find Orange:\n  * [Crunchyroll](https://www.crunchyroll.com/orange) (dubbed)\n  * [Funimation](https://www.funimationnow.uk/shows/orange/) (subtitled)\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * \"Tishiana Girls\" by Great Big Sea\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch2-image.png"
+                        },
+                        {
+                            "time": "06:02",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch3-image.png"
+                        },
+                        {
+                            "time": "31:19",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch4-image.png"
+                        },
+                        {
+                            "time": "34:02",
+                            "title": "Comic Sm\u00f6rg\u00e5sbord: Preacher by Garth Ennis and Steve Dillon",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch5-image.png"
+                        },
+                        {
+                            "time": "40:16",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch6-image.png"
+                        },
+                        {
+                            "time": "40:57",
+                            "title": "Broadwaves Crew Chat",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch7-image.png"
+                        },
+                        {
+                            "time": "1:04:27",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/orange-p2/ch8-image.png"
+                        },
+                        {
+                            "time": "1:09:19",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Firefly: As Long as I'm Flyin'",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/firefly-alaif/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20180220-firefly-alaif.mp3",
+                    "duration": "24:41",
+                    "release-date": "2018-02-20",
+                    "short-description": "In this episode, we talk with Marc Gunn about his latest Firefly album, \"As Long As I'm Flyin'\"",
+                    "summary": "In this episode of __Broadwaves__, we talk with Marc Gunn about his latest Firefly album, \"As Long As I'm Flyin'\".\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * \"Tishiana Girls\" by Great Big Sea\n* From \"As Long As I'm Flyin'\"\n  * \"She's Shiny\" by Marc Gunn\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Chat"
+                        },
+                        {
+                            "time": "01:27",
+                            "title": "Marc Gunn",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/firefly-alaif/ch3-image.png"
+                        },
+                        {
+                            "time": "23:33",
+                            "title": "Chat"
+                        },
+                        {
+                            "time": "24:21",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lord of the Rings (BBC radio version)",
+                    "image-url": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/image.png",
+                    "audio-url": "https://traffic.libsyn.com/secure/thesignal/bw20181106-lotr-sense8.mp3",
+                    "duration": "1:53:49",
+                    "release-date": "2018-11-06",
+                    "short-description": "In this episode, we discuss the BBC audio version of Lord of the Rings, and chat about Sense8.",
+                    "summary": "We've all heard of __Lord of the Rings__. There have been many versions: the books, the movies... But this episode of __Broadwaves__ is about the BBC radio adaptation. Nick Edwards tells us why he loves this version so much..\n\nAdditionally, now that the finale of Sense8 has aired, we took this opportunity to discuss it. There will be spoilers! Join in the discussion.\n\nMusic used in this episode:\n* Broadwaves theme tune\n  * \"Tishiana Girls\" by Great Big Sea\n* SAGA segment\n  * [Purple Planet](https://purpleplanet.com)\n",
+                    "chapters": [
+                        {
+                            "time": "00:00",
+                            "title": "Broadwaves opening theme"
+                        },
+                        {
+                            "time": "00:33",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "08:46",
+                            "title": "Feedback contact information",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch3-image.png"
+                        },
+                        {
+                            "time": "10:10",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch4-image.png"
+                        },
+                        {
+                            "time": "10:21",
+                            "title": "Feature: Lord of the Rings, part 1",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch5-image.png"
+                        },
+                        {
+                            "time": "28:01",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch6-image.png"
+                        },
+                        {
+                            "time": "28:28",
+                            "title": "Feature: Buffy's Back",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch7-image.png"
+                        },
+                        {
+                            "time": "38:36",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch8-image.png"
+                        },
+                        {
+                            "time": "41:48",
+                            "title": "Feature: Lord of the Rings, part 2",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch9-image.png"
+                        },
+                        {
+                            "time": "53:53",
+                            "title": "Lord of the Rings Theme",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch10-image.png"
+                        },
+                        {
+                            "time": "56:02",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch11-image.png"
+                        },
+                        {
+                            "time": "58:06",
+                            "title": "Comic Sm\u00f6rg\u00e5sbord: Saga, by Brian K. Vaughan and Fiona Staples",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch12-image.png"
+                        },
+                        {
+                            "time": "1:08:15",
+                            "title": "Discussion",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch13-image.png"
+                        },
+                        {
+                            "time": "1:10:20",
+                            "title": "Broadwaves Crew Chat: Sense8",
+                            "image": "https://signalpodcast.github.io/broadwaves/img/episodes/lotr-sense8/ch14-image.png"
+                        },
+                        {
+                            "time": "1:51:48",
+                            "title": "Discussion"
+                        },
+                        {
+                            "time": "1:53:29",
+                            "title": "Broadwaves closing theme"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
